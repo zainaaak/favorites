@@ -1,0 +1,42 @@
+body {
+  width: 500px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 25px;
+  padding-bottom: 50px;
+  margin: 0px auto;
+  background-color: rgb(250, 225, 237);
+  margin-top: 25px;
+  align-content: center;
+  font-family: cursive;
+}
+html {
+  background-color: hotpink;
+}
+#swim {
+  width: 200px;
+  border-style: double;
+  border-color: deeppink;
+}
+#shopping {
+  width: 200px;
+  height: 200px;
+  border-style: double;
+  border-color: deeppink;
+}
+#brooklyn {
+  width: 200px;
+  height: 150px;
+  border-color: deeppink;
+  border-style: double;
+}
+#zaina {
+  width: 200px;
+  height: 200px;
+  border-style: double;
+  border-color: deeppink;
+}
+p {
+  border-style: dotted;
+  border-color: deeppink;
+}
